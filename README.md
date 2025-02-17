@@ -1,2 +1,2 @@
 # MyFirstProjectSychFed
- Мой первый проект на GitHub
+ Мой первый проект на GitHub. Обнова
